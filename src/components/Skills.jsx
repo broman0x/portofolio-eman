@@ -41,7 +41,6 @@ function Skills() {
                 title="React JS"
               ></i>
             </div>
-          </div>
         </div>
       </Container>
     </>
