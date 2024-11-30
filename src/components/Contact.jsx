@@ -57,14 +57,14 @@ function Contact() {
                 </div>
               </div>
               <div className="col contact-col animate__animated animate__slideInRight">
-                <div className="Telegram-wrapper">
+              <div className="linkedin-wrapper">
                   <h3>
                     <AiFillLinkedin />
-                    &nbsp;&nbsp;Telegram
+                    &nbsp;&nbsp;Linkedin
                   </h3>
-                  <p>@bukaneman</p>
+                  <p>eman pedia</p>
                   <a
-                    href="t.me/bukaneman/"
+                    href="https://www.linkedin.com/in/eman-pedia-b6862b33b"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
