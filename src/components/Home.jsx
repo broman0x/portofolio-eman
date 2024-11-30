@@ -34,7 +34,7 @@ function Home() {
             Hi there <img width="35" src={Hi} alt="Hi" />, my name is
           </h3>
           <h2>
-            <span className="name-hover">SL</span>
+            <span className="name-hover">Sula</span>
             <br />
             <span className="name-hover">Eman</span>
           </h2>
