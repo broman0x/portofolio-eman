@@ -39,7 +39,7 @@ function About() {
         </div>
         <div className="about-right animate__animated animate__fadeIn animate__slower py-3">
           <p>
-            Hi, I'm Sulaeman, an Information Systems student at Mathla'ul Anwar University, Banten. I have a strong interest in web programming creating, managing, and deploying dynamic, interactive, and secure web applications.
+          Hi, I'm Sulaeman, I'm an Information Systems student. I have a strong interest in web programming, creating, managing and deploying dynamic, interactive and secure web applications.
           </p>
 
           <h4>Certificates</h4>
