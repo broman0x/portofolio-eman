@@ -22,23 +22,22 @@ function Skills() {
           <div className="row my-4 animate__animated animate__flipInX animate_slow">
             <div className="col">
               <i
-                className="devicon-html5-plain-wordmark colored"
-                title="HTML"
+               // className="devicon-html5-plain-wordmark colored"
+               // title="HTML"
               ></i>
               <i
-                className="devicon-css3-plain-wordmark colored"
-                title="CSS"
+                //className="devicon-css3-plain-wordmark colored"
+                //title="CSS"
               ></i>
               <i
-                className="devicon-javascript-plain colored"
-                title="JavaScript"
+               // className="devicon-javascript-plain colored"
+                //title="JavaScript"
               ></i>
-              <i className="devicon-php-plain colored" title="PHP"></i>
             </div>
           </div>
               <i
-                className="devicon-react-original-wordmark colored"
-                title="React JS"
+                // className="devicon-react-original-wordmark colored"
+               // title="React JS"
               ></i>
             </div>
       </Container>
