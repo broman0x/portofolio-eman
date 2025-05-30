@@ -10,7 +10,7 @@ function Footer() {
         </div>
         <div className="foot-right d-flex">
           <a
-            href="https://github.com/man296"
+            href="https://github.com/broman0x"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,7 +26,7 @@ function Footer() {
             &nbsp;&nbsp;Linkedin
           </a>
           <a
-            href="https://www.instagram.com/emann_0x/"
+            href="https://www.instagram.com/0xeman/"
             target="_blank"
             rel="noreferrer"
           >
