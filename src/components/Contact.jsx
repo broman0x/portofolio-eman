@@ -80,9 +80,9 @@ function Contact() {
                     <AiFillGithub />
                     &nbsp;&nbsp;GitHub
                   </h3>
-                  <p>man296</p>
+                  <p>broman0x</p>
                   <a
-                    href="https://github.com/man296"
+                    href="https://github.com/broman0x"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
@@ -98,9 +98,9 @@ function Contact() {
                     <AiFillInstagram />
                     &nbsp;&nbsp;Instagram
                   </h3>
-                  <p>emann_0x</p>
+                  <p>0xeman</p>
                   <a
-                    href="https://www.instagram.com/emann_0x/"
+                    href="https://www.instagram.com/0xeman/"
                     target="_blank"
                     rel="noreferrer"
                     className="btn-direct"
