@@ -15,26 +15,26 @@ const allProjects = [
       '-.',
     websiteUrl: 'https://linktree-wkwk.vercel.app/',
     githubUrl: 'https://github.com/man296/linktree-apa-ini',
-    techStack: ['HTML'],
+    techStack: ['HTML', 'CSS'],
   },
-    //{
-      //title: 'Comingsoon',
-      //img: require('../img/Project16.webp'),
-      //description:
-        //'Comingsoon',
-      //websiteUrl: 'https://raw.githubusercontent.com/man296/comingsoon/refs/heads/main/comingsoon.svg',
-      //githubUrl: 'Comingsoon',
-      //techStack: ['NONE', 'NONE', 'NONE', 'NONE'],
-    //},
-    //{
-      //title: 'Comingsoon',
-      //img: require('../img/Project13.webp'),
-      //description:
-        //'Comingsoon.',
-     // websiteUrl: 'https://raw.githubusercontent.com/man296/comingsoon/refs/heads/main/comingsoon.svg',
-      //githubUrl: 'https://github.com/man296',
-      //techStack: ['NONE', 'NONE', 'NONE'],
-    //},
+    {
+      title: 'BacaKuy',
+      img: require('../img/Project16.webp'),
+      description:
+        'BacaKuy adalah sebuah website perpustakaan digital.',
+      websiteUrl: 'https://bacakuy.wuaze.com',
+      githubUrl: 'Comingsoon',
+      techStack: ['PHP', 'BOOTSRAP5', 'JS', 'MYQSL'],
+    },
+    {
+      title: 'Portofolio By Eman',
+      img: require('../img/Project13.webp'),
+      description:
+        'Portofolio Pribadi.',
+      websiteUrl: 'https://portofoliosigit.vercel.app/',
+      githubUrl: 'https://github.com/broman0x/portofoliosigit',
+      techStack: ['ReactJS', 'TaildwindCSS'],
+    },
     //{
       //title: 'Comingsoon',
       //img: require('../img/Project2.webp'),
