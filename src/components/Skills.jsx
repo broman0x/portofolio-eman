@@ -36,7 +36,7 @@ function Skills() {
             </div>
           </div>
               <i
-                className="devicon-linux-original-wordmark colored"
+                className="devicon-linux-plain colored"
                 title="Linux"
               ></i>
             </div>
