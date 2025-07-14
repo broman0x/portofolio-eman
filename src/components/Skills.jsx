@@ -36,8 +36,8 @@ function Skills() {
             </div>
           </div>
               <i
-                //className="devicon-react-original-wordmark colored"
-                //title="React JS"
+                className="devicon-linux-original-wordmark colored"
+                title="Linux"
               ></i>
             </div>
       </Container>
